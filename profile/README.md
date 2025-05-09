@@ -1,4 +1,4 @@
-# Coffee Project
+# Hi there 👋
 
 The Coffee Project is an ecosystem of fault-tolerant, resilient, efficient, and scalable services designed using modern technologies and patterns. Our goal is to provide a robust framework for developing and deploying IT services that can easily adapt to changing requirements and scale with user demands.
 
