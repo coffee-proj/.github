@@ -1,12 +1,15 @@
-## Hi there 👋
+# Coffee Project
 
-<!--
+The Coffee Project is an ecosystem of fault-tolerant, resilient, efficient, and scalable services designed using modern technologies and patterns. Our goal is to provide a robust framework for developing and deploying IT services that can easily adapt to changing requirements and scale with user demands.
 
-**Here are some ideas to get you started:**
+## Contact
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+For questions or support, please reach out to our team:
+
+### Nikita
+
+[<img src="./assets/icons/github.svg" height=42 width=42 />](https://github.com/nikitaSstepanov) [<img src="./assets/icons/telegram.svg" height=42 width=42 />](https://t.me/nikitasstepanov) [<img src="./assets/icons/mail.svg" height=42 width=42 />](mailto:ns_stepanov@inbox.ru)
+
+### Artem
+
+[<img src="./assets/icons/github.svg" height=42 width=42 />](https://github.com/artemKapitonov) [<img src="./assets/icons/telegram.svg" height=42 width=42 />](https://t.me/kapitonov646) [<img src="./assets/icons/mail.svg" height=42 width=42 />](mailto:artemkapitonov646@gmail.com)
