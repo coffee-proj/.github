@@ -6,8 +6,8 @@ Our goal is to create a framework and tools for the easy development and deploym
 
 ## Coffee products
 
-* **[GoSuit](https://github.com/gosuit)**
 * **[Url Shortener](https://github.com/coffee-proj/url-shortener)**
+* **[GoSuit](https://github.com/gosuit)**
 
 ## Contact
 

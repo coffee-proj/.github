@@ -1,2 +1,1 @@
-# .github
-About Coffee Project
+# The Coffee Project Description
