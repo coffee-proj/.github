@@ -1,1 +1,3 @@
-# The Coffee Project Description
+# Hi there 👋
+
+It is Coffee Project description repo.
